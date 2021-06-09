@@ -1,4 +1,4 @@
 # ApiIntegraCommerce
-Funcções implementadas:
-### Categoria
-### Produto
+## Funções implementadas:
+#### Categoria
+#### Produto
