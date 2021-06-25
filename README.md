@@ -5,4 +5,5 @@
 #### Pedido
 #### Promoção
 #### Sku
+#### Preço
 #### etc...
